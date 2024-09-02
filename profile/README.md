@@ -6,6 +6,8 @@ Codetive is your go-to platform for sharpening your coding skills through hands-
 
 We’ve created this space to bring together all the amazing features Codetive has to offer, along with an open repository for contributing, collaborating, and enhancing your coding journey. Let's code, learn, and build something amazing together!
 
+Quick navigation to the [Frontend Coding Challenges](https://github.com/Codetive/frontend-coding-challenges) repo.
+
 ## Table of Contents
 
 1. [Welcome to Codetive 🎉](#welcome-to-codetive-)
