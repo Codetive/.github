@@ -1,3 +1,5 @@
+![banner](banner.png)
+
 # Welcome to Codetive 🎉
 
 Hello and welcome to our repo! We’re sooo happy to have you here.
