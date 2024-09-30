@@ -6,6 +6,8 @@ Hello and welcome to our repo! We’re sooo happy to have you here.
 
 Codetive is your go-to platform for sharpening your coding skills through hands-on challenges, interactive courses, and community-driven resources. Whether you're just starting out or looking to expand your expertise, our resources are designed to help you learn and grow.
 
+The **Codetive** learning platform launched its beta version on 30th September 2024. You can visit the platform [here](https://codetive.dev).
+
 We’ve created this space to bring together all the amazing features Codetive has to offer, along with an open repository for contributing, collaborating, and enhancing your coding journey. Let's code, learn, and build something amazing together!
 
 Quick navigation to the [Frontend Coding Challenges](https://github.com/Codetive/frontend-coding-challenges) repo.
@@ -39,11 +41,6 @@ Here's what you can expect (as of September 2024):
 
 ### Note:
 95% of features will be free, and for now, **100% of the features will available at no cost**. Explore our GitHub repositories for additional resources like trivia and interview questions, project ideas with UI files, and Notion databases packed with useful content.
-
-
-
-**Planned Release:**  
-First version is expected to launch at the end of September 2024.
 
 
 
